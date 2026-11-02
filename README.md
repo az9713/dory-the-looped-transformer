@@ -2,6 +2,8 @@
 
 [**Read the live interactive tutorial →**](https://az9713.github.io/dory-the-looped-transformer/)
 
+[![Screenshot of the live Dory tutorial](assets/preview.png)](https://az9713.github.io/dory-the-looped-transformer/)
+
 A mathematical and visual guide to looped transformers, NVIDIA Dory, and the key-value (KV) cache. The tutorial combines an explanation of Sam’s demonstrations with primary-source research and a precise account of recurrence and attention-cache behavior.
 
 ## What is included
